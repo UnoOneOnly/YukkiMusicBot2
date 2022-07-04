@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/namirobot/YukkiMusicBot2",
+        "value": "https://github.com/UnoOneOnly/YukkiMusicBot2",
         "required": true
       },
       "UPSTREAM_BRANCH": {
